@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Lab2System",
+      "type": "clr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}\Lab2System\bin\Debug\Lab2System.exe",
+      "cwd": "${workspaceFolder}\Lab2System\bin\Debug"
+    }
+  ]
+}
